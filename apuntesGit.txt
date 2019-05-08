@@ -1,4 +1,4 @@
-// iniciar un nuevo proyecto	
+﻿// iniciar un nuevo proyecto	
 	git init 
 
 //agregar un archivo
@@ -28,3 +28,6 @@ git checkout otraversion
 git remote add origin https://github.com/rutacreada/
 
 git push -u origin master
+
+//Clonar el repositorio remoto
+git clone https://github.com/rubenangel5891/access
