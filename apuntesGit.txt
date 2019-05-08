@@ -1,0 +1,30 @@
+// iniciar un nuevo proyecto	
+	git init 
+
+//agregar un archivo
+	git add <file>
+
+//agregar todos los archivos de una carpeta
+	git add .
+
+
+git status 
+
+git commit -m "mensaje del commit"
+
+git log 
+
+//ver versiones 
+git branch 
+
+//crear una nueva versión alternativa
+git branch otraversion
+
+//cambiar de versión 
+git checkout otraversion 
+
+
+//agregar a un repositorio de github
+git remote add origin https://github.com/rutacreada/
+
+git push -u origin master
